@@ -1,0 +1,39 @@
+# Directorio de compilación
+/build/
+/dist/
+
+# Directorio de configuración del proyecto
+/nbproject/private/
+
+# Archivo de configuración del proyecto
+/nb-configuration.xml
+
+# Historial de configuración de NetBeans
+/nbactions.xml
+/nb-configuration.xml
+
+# Carpetas de respaldo y archivos temporales
+*~
+*.bak
+*.swp
+
+# Carpetas de respaldo de NetBeans
+/var/
+/nbproject/private/
+/nbproject/Makefile-*
+
+# Carpeta de caché de NetBeans
+/nbproject/cache/
+
+# Carpeta de índice de NetBeans
+/nbproject/index/
+
+# Carpeta de archivos generados automáticamente por NetBeans
+/generated/
+/snb/
+
+# Archivo de bloqueo de NetBeans
+/nbproject/var/
+
+# Carpeta de bibliotecas
+/libs/
